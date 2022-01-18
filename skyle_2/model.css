@@ -1,0 +1,292 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.menu{
+    justify-content: center;
+    font-size: 25px; 
+    
+}
+
+.line{
+    display: flex;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space:nowrap;
+}
+.line img{
+    width: 100%;
+}
+.menu h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(240, 235, 228);
+}
+.menu_img{
+    display: flex;
+    justify-content: center;
+     width:40rem ;
+     padding-left: 35rem;
+     padding-right: 35rem;
+
+}
+.menu_tex{
+    display: flex;
+    color: blanchedalmond;
+    justify-content: center;
+    
+}
+.tex{
+    color: blanchedalmond;
+    padding-left: 35rem;
+    padding-right: 35rem;
+   
+}
+.foto img{
+    width: 40rem;
+   
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.foto_1{
+    display: flex;
+
+}
+
+.c_class_1{
+    display: flex;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space:nowrap;
+}
+.c_class_1 img{
+    width: 100%;
+}
+.c_class_1 h1{
+    color: blanchedalmond;
+    font-size: 4rem;
+}
+.class{
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    gap: 5rem;
+}
+.novyi{
+    display: flex;
+    gap: 5rem;
+    padding-top: 10rem;
+
+}
+.novyi img{
+    width: 40rem;
+}
+.novyi_1{
+    display: flex;
+    gap: 5rem;
+    align-content: center;
+    padding-top: 10rem;
+}
+.novyi_1 img{
+    width: 40rem;
+}
+.diza{
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+}
+.dizain{
+    color: blanchedalmond;
+    display: flex;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.dizain_0{
+    display: flex;
+
+}
+.dizain_1{
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+
+.dizain_1 img{
+ width: 35rem;
+ display: flex;
+}
+.dizain_2{
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.dizain_2 img{
+    width: 40rem;
+}
+
+.dizain_3{
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.dizain_3 img{
+    width: 40rem;
+}
+
+.dizain_4{
+    display: flex;
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    gap: 20rem;
+    padding-top: 5rem;
+}
+.dizain_4 img{
+    width: 40rem;
+    
+}
+
+.dizain_5 img{
+    width: 40rem;
+    
+}
+
+.dizain_6 img{
+    width: 40rem;
+    
+}
+.voz{
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    
+}
+
+.voz h1{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.voz h2{
+    display: flex;
+     font-size: 20px;
+     justify-content: center;
+}
+.vooz{
+    display: flex;
+    gap: 5rem;
+    padding-top: 5rem;
+    
+
+}
+.vooz img{
+    width: 30rem;
+    display: flex;
+}
+.konfort{
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.konfort h1{
+    display: flex;
+    justify-content: center;
+}
+.konfort h5{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    
+}
+.konfort p{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.konfort img{
+width: 100rem;
+}
+.bezop{
+    color: blanchedalmond;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.bezop h1{
+    display: flex;
+    justify-content: center;
+}
+.bezop h5{
+    display: flex;
+    justify-content: center;
+}
+.bezop p{
+    display: flex;
+    justify-content: center;
+}
+.bezop img{
+    width: 35rem;
+ 
+}
+.kartina{
+    display: flex;
+    justify-content: center;
+    gap: 15rem;
+}
+.kartina_1{
+    display: flex;
+    gap: 15rem
+
+}
+.kartina_2{
+    display: flex;
+    justify-content: center;
+    padding-left: 10rem;
+    padding-right: 10rem;
+   color: antiquewhite;
+  
+}
+.kartina_3 img{
+    width: 35rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.kartina_3 p{
+display: flex;
+justify-content: center;
+    
+}
+.kurs{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    padding-top: 7rem;
+}
+.texnol{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+
+.texnol_1{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+   gap: 2rem;
+}
+.texnol_1 img{
+    width: 35rem;
+}
+.igonca{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    font-size: 15rem;
+    
+}

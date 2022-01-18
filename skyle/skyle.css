@@ -1,0 +1,202 @@
+body{
+    padding: 0;
+    margin: 0;
+  
+    
+}
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 9rem;
+    padding-right: 9rem;
+  
+    gap: 15rem;
+}
+.toolbar p{
+    color: rgb(23, 22, 24);
+}
+.toolbar-tex {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10rem;
+
+}
+.toolbar-tex a{
+    color: rgb(16, 61, 185);
+}
+.toolbar-tex p{
+    color: rgb(22, 21, 21);
+}
+.header{
+    position: sticky;
+ 
+}
+.armada{
+    display: flex;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 9rem;
+    padding-right: 9rem;
+    gap: 8rem;
+    
+}
+.armada_tex{
+    display: flex;
+    gap: 2rem;
+  
+}
+.armada ul{
+    display: flex;
+    gap:3rem ;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+}
+.armada a:hover{
+    transition: .8s;
+    border-bottom: 2px solid rgb(48, 9, 223);
+}
+.armada a {
+  text-decoration: none;
+  color: black;
+}
+.armada button{
+   padding: 20px;
+   background-image: linear-gradient(to right, #97ada3ce 0%, #8377779a 51%, #78a57844 100%);
+   border-radius: 30px;
+   font-size: 14px;
+   border: none;
+   
+}
+.armada button:hover{
+    color: blanchedalmond;
+    background-image: linear-gradient(to right,  #708f87ce 0%, #9c957ec5 51%, #0d0e0d44 100% );
+    transition: 0.3 s;
+}
+.ramka {
+    background-image: url('../img/merc225525.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    padding-left: 9rem;
+    padding-right: 9rem;
+    justify-content: space-between;
+}
+.ramka  h1{
+     padding-top: 10rem;
+     font-size: 2rem;
+     color: rgba(236, 221, 221, 0.733);
+    
+}
+
+  .ramka button{
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+    border: none;
+    background-image: linear-gradient( to right, #0c5e5a7e 0%, #2d31339a 51%, #204647a9 100%);
+
+  } 
+
+  .ramka button:hover{
+    background-image: linear-gradient( to right, #0c5e5a7e 0%, #2d31339a 51%, #204647a9 100%);
+    transition: .8s;
+    padding: 20px ;
+  }
+  .igonka {
+      padding-top: 1rem;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      font-size: 3rem;
+  }
+  
+  .igonka a{
+      display: flex;
+      color: rgb(241, 241, 241);
+      padding-top: 5rem;  
+  } 
+
+  .igonka a:hover{
+   transform: rotate(360deg) ;
+   transition: .7s;
+                
+ }
+
+  .uslugi{
+   font-size: 3rem;
+   text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   white-space:nowrap;
+   padding: 10px;
+   
+  }
+  .uslugi img {
+      width: 100%;
+  }
+  .class{
+     display: flex;
+     padding-left: 12rem;
+     padding-right: 12rem;
+     justify-content: space-between;
+     text-align: center;   
+  }
+  .class-1 img{
+    width: 200px;
+  }
+ 
+.class-1 {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 45px 30px;
+
+}
+  
+.class-1 a {
+    color: rgb(87, 19, 175);
+    text-decoration: none;
+}
+.arbaite{
+    font-size: 3rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space:nowrap;
+    padding: 10px;
+}
+.arbaite img{
+    width:100%;
+}
+.karta{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    padding-left: 12rem;
+     padding-right: 12rem;
+
+}
+.karta h1{
+    display: flex;
+    justify-content: center;
+
+}
+.karta h2{
+    display: flex;
+    justify-content: center;
+
+}
+.karta h3{
+    display: flex;
+    justify-content: center;
+
+}
+.karta a{
+ text-decoration: none;
+}

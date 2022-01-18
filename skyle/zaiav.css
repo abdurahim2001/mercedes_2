@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, rgb(49, 199, 199) 0%, rgba(28, 131, 105, 0.445) 51%, #fff 100%) ;
+}
+
+
+ .menu{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    
+}
+.menu img{
+    width: 10rem;
+   
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 15px;
+    background-color: cadetblue;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #17917c 0%, #1919c7 51%, #3ae4c5 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+    
+}
+.form:hover{
+    background-position: right center;
+}
+
+
+input{
+    padding: 15px 50px 15px 50px;
+    
+}
+button{
+    padding: 15px;
+    background-color: cadetblue;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #17917c 0%, #171718 51%, #121d1b 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(180, 24, 24, 0.1);
+    transition: .5s;
+    
+}
+.button:hover{
+    background-position: right center;
+}

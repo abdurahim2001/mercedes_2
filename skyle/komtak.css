@@ -1,0 +1,124 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(15, 15, 15);
+
+}
+.menu_tex{
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    white-space:nowrap;
+    padding-top: 5rem;
+    font-size: 2rem;
+}
+
+.menu_tex img{
+    width: 100%;
+}
+.menu img{
+    width: 25rem;
+    
+}
+.menu_img_1{
+    display: flex;
+    justify-content: center;
+}
+.menu_tex_1{
+     display: flex;
+    justify-content: center;
+    color: blanchedalmond;
+    flex-direction: column;
+    padding-right: 50rem;
+    padding-left: 50rem;
+}
+.lili{
+    text-decoration: none;
+    list-style: none;
+}
+.lili a{
+text-decoration: none;
+}
+/* 2 */
+.menu_img_2{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
+.menu_tex_2{
+     display: flex;
+    justify-content: center;
+    color: blanchedalmond;
+    flex-direction: column;
+    padding-right: 50rem;
+    padding-left: 50rem;
+    padding-top: 3rem;
+}
+.lili{
+    text-decoration: none;
+    list-style: none;
+}
+.lili a{
+text-decoration: none;
+}
+/* 3 */
+.menu_img_3{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
+.menu_tex_3{
+     display: flex;
+    justify-content: center;
+    color: blanchedalmond;
+    flex-direction: column;
+    padding-right: 50rem;
+    padding-left: 50rem;
+    padding-top: 3rem;
+}
+.lili{
+    text-decoration: none;
+    list-style: none;
+}
+.lili a{
+text-decoration: none;
+}
+/* 4 */
+.menu_img_4{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
+.menu_tex_4{
+     display: flex;
+    justify-content: center;
+    color: blanchedalmond;
+    flex-direction: column;
+    padding-right: 50rem;
+    padding-left: 50rem;
+    padding-top: 3rem;
+}
+.lili{
+    text-decoration: none;
+    list-style: none;
+}
+.lili a{
+text-decoration: none;
+}
+
+.kurs{
+    color: rgba(250, 235, 215, 0.384);
+    display: flex;
+    justify-content: center;
+    padding-top: 7rem;
+}
+.igonca{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    font-size: 15rem;
+    
+}
