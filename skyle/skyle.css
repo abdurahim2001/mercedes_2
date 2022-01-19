@@ -200,3 +200,130 @@ body{
 .karta a{
  text-decoration: none;
 }
+.karta_karta{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width: 480px){
+    .armada{
+         padding: 0;
+         gap:0;
+    }
+    .armada_tex{
+        gap: 0;
+    }
+    .armada_tex img{
+        height: 25px;
+        padding-top: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .armada_tex h1{
+         font-size: 8px;
+         padding-top: 5px;
+    }
+    .armada ul{
+        padding-left: 10px;
+        padding-right: 10px;
+        gap: 6px;
+    }
+    .armada li{
+         font-size:8px ; 
+         gap: 0; 
+    }
+    .armada button{
+        padding: 5px;
+        font-size: 5px;
+        border-radius: 5px;
+    }
+     .ramka{
+         width: 90px;
+         display: block;
+         flex-direction: column;
+     }
+     .ramka-tex{
+         display: block;
+         justify-content: center;
+      
+     }
+     .ramka h1{
+         font-size: 25px;
+         color: rgb(238, 225, 206);
+         display: flex;
+         justify-content: center;
+         
+      
+        }
+     .ramka button{
+         padding: 5px;
+         font-size:15px;
+        
+         
+        }
+        .ramka button:hover{
+            padding: 5px;
+            font-size:15px;
+            background-color: rgb(196, 26, 26);
+            
+           }
+     .igonka{
+         display: flex;
+         flex-direction: row;
+         width: 50%;
+         gap: 30px;
+         justify-content: center;
+             
+        }
+     .uslugi img{
+         width: 100px;
+         height: 0.5vh;
+         display: flex;
+         
+        }
+     .uslugi h1{
+        font-size: 20px;
+        }
+        .class{
+            display: block;
+            padding: 0;
+           
+          
+        }
+        .class-1 img{
+            width: 75px;
+    
+        }
+        .class-1{
+          padding: 20px 10px 25px 10px;
+          margin: 2rem;
+        
+        }
+        .class-1 h1{
+           font-size: 20px ;
+        }
+        .class-1 p{
+            font-size: 15px ;
+         }
+         .class-1 a{
+            font-size: 10px ;
+         }
+         .karta{
+             padding: 0;
+         }
+         .karta h1{
+             padding-left: 5px;
+             padding-right: 5px;
+         }
+         .karta  h4{
+             display: flex;
+             justify-content: center;
+             padding-right: 5p2px;
+             padding-left: 2px;
+         }
+         .karta_karta{
+             height: 50vh;
+             margin: 70px 20px 70px 20px;
+             margin-bottom: 5px;
+         }
+        
+    }

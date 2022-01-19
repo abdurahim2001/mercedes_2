@@ -69,3 +69,10 @@ body{
     font-size: 15rem;
     
 }
+@media (max-width:480px) {
+    .tex h1{
+     font-size: 5px;
+     
+    }
+    
+}
